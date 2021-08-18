@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1558104723 source:c:\users\hp\desktop\prof project info\project info final\main.c
+	"Functions.h"
+
+1558299704 c:\users\hp\desktop\prof project info\project info final\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1558560563 source:c:\users\hp\desktop\project info final\main.c
+	"Functions.h"
+
+1558570676 c:\users\hp\desktop\project info final\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1558560563 source:c:\users\hp\desktop\project info\project info final\main.c
+	"Functions.h"
+
+1558673531 c:\users\hp\desktop\project info\project info final\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1558560563 source:c:\users\hp\desktop\expose et projet\project info\project info final\main.c
+	"Functions.h"
+
+1560375941 c:\users\hp\desktop\expose et projet\project info\project info final\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1558564163 source:d:\ayoub things\9raya\expose et projet\project info\project info final\main.c
+	"Functions.h"
+
+1560379541 d:\ayoub things\9raya\expose et projet\project info\project info final\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
